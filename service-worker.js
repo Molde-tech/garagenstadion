@@ -1,4 +1,4 @@
-const CACHE_NAME = 'garagenstadion-v1';
+const CACHE_NAME = 'garagenstadion-v2-products';
 
 const APP_FILES = [
   './',
